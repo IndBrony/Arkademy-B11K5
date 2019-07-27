@@ -9,3 +9,4 @@ No 6 menggunakan
  
  Tambahan : 
   - jawaban 6A berupa sql, dan query yang ditanyakan di soal saya jadikan View
+  - jawaban 6C menggunakan database b11k5.sql
