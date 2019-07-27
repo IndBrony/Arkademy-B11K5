@@ -8,5 +8,5 @@ No 6 menggunakan
  - phpMyAdmin Version information: 4.8.5
  
  Tambahan : 
-  - jawaban 6A berupa sql, dan query yang ditanyakan di soal saya jadikan View
-  - jawaban 6C menggunakan database b11k5.sql
+  - jawaban 6A berupa sql, dan query yang ditanyakan di soal saya jadikan View employee
+  - jawaban 6C menggunakan database b11k5.sql dan harus connect internet karena menggunakan bootstrap online
