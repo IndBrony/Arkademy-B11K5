@@ -101,8 +101,8 @@
         </tbody>
       </table>
     </div>
-    <button type="button" id="deleteSuccessBtn" style="display: none;" data-toggle="modal" data-target="#deleteSuccess"></button>
-    <div class="modal fade" id="deleteSuccess" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <button type="button" id="deleteSuccessBtn" style="display: none;" data-toggle="modal" data-target="#deleteSuccessModal"></button>
+    <div class="modal fade" id="deleteSuccessModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
