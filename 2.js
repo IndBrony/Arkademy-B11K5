@@ -2,7 +2,7 @@ function is_username_valid(username) {
     let min_valid_length = 5;
     let max_valid_length = 9;
     
-    let valid_start = username.match(/^\d | ^\W/g) == null? false:true;
+    let valid_start = username.match(/^\d|^\W/g) == null? false:true;
   
     if(valid_start){
   		return false;
